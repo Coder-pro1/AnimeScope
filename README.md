@@ -50,7 +50,7 @@ cd client
 npm install
 npm run dev
 ```
-The frontend will run at: `http://localhost:3000`
+The frontend will run at: `http://localhost:5173`
 
 ### 3. Backend Setup
 ```bash
