@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Ignore TCL completely
+*.tcl linguist-language=Ignore
+*.exp linguist-language=Ignore
+
+# Force classify some files correctly
+*.java linguist-language=Java
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
